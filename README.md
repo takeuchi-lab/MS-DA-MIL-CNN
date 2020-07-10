@@ -1,7 +1,7 @@
 # Multi-scale Domain-adversarial Multiple Instance Learning CNN (CVPR2020)
 <div align="center">
 
-<img src="figs/GA.png" width="40%">
+<img src="figs/notion.png" width="40%">
 <img src="figs/model.png" width="40%">
 
 </div>

@@ -155,4 +155,4 @@ Accuracy, precision and recall can be calculated by 'eval.py' as follows.
 
 [1] N. Hashimoto, D. Fukushima, R. Koga, Y. Takagi, K. Ko, K. Kohno, M. Nakaguro, S. Nakamura, H. Hontani and I. Takeuchi, "Multi-scale domain-adversarial multiple-instance CNN for cancer subtype classification with unannotated histopathological images," Proc. IEEE Conference on Computer Vision and Pattern Recognition, pp. 3852-3861, June 2020.
 
-Last update: July 5, 2020
+Last update: July 10, 2020
